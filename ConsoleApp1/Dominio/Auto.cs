@@ -8,5 +8,6 @@ namespace ConsoleApp1.Dominio
 {
     internal class Auto
     {
+
     }
 }
