@@ -10,7 +10,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Cuanto KM quiere recorrer");
             a1.cKilometros = double.Parse(Console.ReadLine());
-            Console.WriteLine("Cuanto Combustible tiene");
+            Console.WriteLine("Cuanto Combustible tiene?");
             a1.comustible = double.Parse(Console.ReadLine());
             Console.WriteLine("Usted " + a1.Conducir() + " podra recorer " + a1.cKilometros + "KM");
 
